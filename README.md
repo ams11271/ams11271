@@ -18,7 +18,7 @@ Passionate Data Science graduate focused on solving real world problem through d
 ## Professional Highlights :star:
 
 ### Automation and Solution Engineer Intern
-State College, PA | January 2025 -  May 2025
+State College, PA | February 2025 -  May 2025
 
 ### Data Science Intern
 State College, PA | August 2024 - December 2024
