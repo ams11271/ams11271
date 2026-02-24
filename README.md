@@ -1,6 +1,6 @@
 ## Hello, I am Ahsan Sultan 👋
 
-:round_pushpin: New York City, New York
+:round_pushpin: State College, PA
 
 
 ## How to reach me!
@@ -16,6 +16,9 @@
 Passionate Data Science graduate focused on solving real world problem through data driven decisions. I love diving deep into data, finding patterns and building solutions that drive results
 
 ## Professional Highlights :star:
+
+### AI Engineer Intern
+State College, PA | November 2025 -  January 2026
 
 ### Automation and Solution Engineer Intern
 State College, PA | February 2025 -  May 2025
@@ -36,6 +39,11 @@ Karachi, Pakistan | June 2023 - July 2023
 Python, SQL, R, JavaScript, Java, Microsoft Azure, Amazon Web Services, HTML, CSS, Hadoop, Flutter, PostgreSQL, Microsoft Power BI, Scala, Microsoft Office, 3D Slicer
 
 ## Education 🎓
+
+The Pennsylvania State University
+
+Masters in Business Analytics
+
 
 May 2025
 
