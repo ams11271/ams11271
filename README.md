@@ -25,7 +25,7 @@ I don't just build models, I tell stories with data. I start with the *why* behi
 | **Developer Intern** | Penn State Nittany AI Alliance | Built Streamlit web app with Azure OAuth 2.0; improved team matching via Azure Document Intelligence; fine tuned GPT 3.5 chatbot boosting engagement by 20% |
 | **Data Science Intern** | United Bank Limited | Drove 10% increase in app usage via Cohort Analysis; built recommendation system reducing costs; enhanced customer satisfaction by 15% with Power BI dashboards |
 
-*Internship projects are not on my GitHub due to privacy concerns.*
+**Note:** *Internship projects are not on my GitHub due to privacy concerns.*
 
 ---
 
@@ -60,6 +60,3 @@ I don't just build models, I tell stories with data. I start with the *why* behi
 
 **B.S. Applied Data Science, Minor in Computer Science** | Penn State, College of IST (GPA: 3.58 | May 2025 | Dean's List 4/6 semesters)
 
----
-
-**Note:** *Internship projects are not on my GitHub due to privacy concerns.*
