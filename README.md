@@ -18,12 +18,12 @@ I don't just build models, I tell stories with data. I start with the *why* behi
 
 | Role | Company | What I Built |
 |---|---|---|
-| **AI Engineer Intern** | Radians per Second Squared | Schema driven LLM pipeline with BAML; reduced hallucinations & token usage by 35% via prompt optimization |
-| **Automation & Solutions Engineer Intern** | Penn State Nittany AI Alliance | Automated pipeline generating 13,000+ word docs daily from AWS S3; containerized with Docker on Azure; cut delivery latency by 80% |
-| **Data Science Intern** | Penn State Nittany AI Alliance | Preprocessed 4,500+ images; trained YOLOv10 model achieving 82.8% accuracy in deer detection |
+| **AI Engineer Intern** | Radians per Second Squared | Improved data quality by building a schema driven LLM pipeline with BAML; reduced hallucinations & token usage by 35% via GEPA prompt optimization |
+| **Automation & Solutions Engineer Intern** | Penn State Nittany AI Alliance | Increased advisor efficiency by 15% by automating a pipeline generating 13,000+ word docs daily from AWS S3; containerized with Docker on Azure; cut delivery latency by 80% |
+| **Data Science Intern** | Penn State Nittany AI Alliance | Preprocessed 4,500+ images and labeled 205 images using Label Studio; trained YOLOv10 model achieving 82.8% accuracy in deer detection |
 | **Research & Development Intern** | Mass General Brigham | Identified neurofibromas by annotating 80+ full body MRI scans with 3DQI Analyzer panning through 10 slices per scan |
-| **Developer Intern** | Penn State Nittany AI Alliance | Built Streamlit web app with Azure OAuth 2.0; fine tuned GPT 3.5 chatbot boosting engagement by 20% |
-| **Data Science Intern** | United Bank Limited | Cohort analysis driving 10% app usage increase; built recommendation system & Power BI dashboards |
+| **Developer Intern** | Penn State Nittany AI Alliance | Built Streamlit web app with Azure OAuth 2.0; improved team matching via Azure Document Intelligence; fine tuned GPT 3.5 chatbot boosting engagement by 20% |
+| **Data Science Intern** | United Bank Limited | Drove 10% increase in app usage via Cohort Analysis; built recommendation system reducing costs; enhanced customer satisfaction by 15% with Power BI dashboards |
 
 *Internship projects are not on my GitHub due to privacy concerns.*
 
