@@ -1,10 +1,7 @@
 # Ahsan Sultan
 
-**Data Science & ML Engineer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahsansultan-blue?logo=linkedin)](https://linkedin.com/in/ahsansultan)
-[![Email](https://img.shields.io/badge/Email-ahsansultan2003@gmail.com-red?logo=gmail)](mailto:ahsansultan2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ams11271-black?logo=github)](https://github.com/ams11271)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahsansultan-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/ahsansultan)
+[![Email](https://img.shields.io/badge/Email-ahsansultan2003@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:ahsansultan2003@gmail.com)
 
 ---
 
